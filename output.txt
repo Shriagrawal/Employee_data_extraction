@@ -1,0 +1,142 @@
+Employee who have worked for 7 consecutive days
+Employee ID: WFS000582
+
+Employee ID: WFS000418
+
+Employee ID: WFS000382
+
+Employee ID: WFS000569
+
+Employee ID: WFS000571
+
+Employee ID: WFS000579
+
+Employee ID: WFS000501
+
+Employee ID: WFS000462
+
+Employee ID: WFS000306
+
+Employee ID: WFS000577
+
+Employee ID: WFS000246
+
+Employee ID: WFS000336
+
+Employee ID: WFS000469
+
+Employee ID: WFS000517
+
+Employee ID: WFS000523
+
+Employee ID: WFS000511
+
+Employee ID: WFS000515
+
+Employee ID: WFS000549
+
+Employee ID: WFS000552
+
+Employee ID: WFS000491
+
+Employee ID: WFS000557
+
+Employees who have less than 10 hours of time between shifts but greater than 1 hour
+Employee ID: WFS000585
+Employee ID: WFS000584
+Employee ID: WFS000582
+Employee ID: WFS000581
+Employee ID: WFS000576
+Employee ID: WFS000574
+Employee ID: WFS000573
+Employee ID: WFS000572
+Employee ID: WFS000557
+Employee ID: WFS000556
+Employee ID: WFS000552
+Employee ID: WFS000579
+Employee ID: WFS000551
+Employee ID: WFS000549
+Employee ID: WFS000550
+Employee ID: WFS000548
+Employee ID: WFS000546
+Employee ID: WFS000541
+Employee ID: WFS000528
+Employee ID: WFS000523
+Employee ID: WFS000521
+Employee ID: WFS000517
+Employee ID: WFS000515
+Employee ID: WFS000555
+Employee ID: WFS000514
+Employee ID: WFS000511
+Employee ID: WFS000538
+Employee ID: WFS000509
+Employee ID: WFS000508
+Employee ID: WFS000505
+Employee ID: WFS000588
+Employee ID: WFS000500
+Employee ID: WFS000496
+Employee ID: WFS000571
+Employee ID: WFS000569
+Employee ID: WFS000368
+Employee ID: WFS000518
+Employee ID: WFS000460
+Employee ID: WFS000200
+Employee ID: WFS000360
+Employee ID: WFS000469
+Employee ID: WFS000318
+Employee ID: WFS000364
+Employee ID: WFS000412
+Employee ID: WFS000446
+Employee ID: WFS000336
+Employee ID: WFS000503
+Employee ID: WFS000246
+Employee ID: WFS000362
+Employee ID: WFS000228
+Employee ID: WFS000463
+Employee ID: WFS000499
+Employee ID: WFS000153
+Employee ID: WFS000583
+Employee ID: WFS000414
+Employee ID: WFS000501
+Employee ID: WFS000101
+Employee ID: WFS000393
+Employee ID: WFS000226
+Employee ID: WFS000127
+Employee ID: WFS000180
+Employee ID: WFS000065
+Employee ID: WFS000578
+Employee ID: WFS000170
+Employee ID: WFS000577
+Employee ID: WFS000185
+Employee ID: WFS000306
+Employee ID: WFS000462
+Employee ID: WFS000345
+Employee ID: WFS000424
+Employee ID: WFS000587
+Employee ID: WFS000457
+Employee ID: WFS000268
+Employee ID: WFS000181
+Employee ID: WFS000507
+Employee ID: WFS000183
+Employee ID: WFS000372
+Employee ID: WFS000418
+Employee ID: WFS000536
+Employee ID: WFS000477
+Employee ID: WFS000391
+Employee ID: WFS000456
+Employee ID: WFS000566
+Employee ID: WFS000530
+Employee ID: WFS000420
+Employee ID: WFS000382
+Employee ID: WFS000426
+Employee ID: WFS000589
+Employee ID: WFS000434
+Employee ID: WFS000522
+Employee ID: WFS000442
+Employee ID: WFS000473
+Employee ID: WFS000465
+Employee ID: WFS000491
+Employee ID: WFS000519
+Employee ID: WFS000495
+
+Employee ID: WFS000523 has worked more than 14 hours
